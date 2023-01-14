@@ -1,7 +1,7 @@
 
-spring:
- application:
-    name: UserService-22222
+# spring:
+# application:
+# name: UserService-22222
 
 eureka:
   instance:
